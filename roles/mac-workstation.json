@@ -1,0 +1,21 @@
+{
+  "name": "mac-workstation",
+  "default_attributes": { },
+  "override_attributes": { },
+  "json_class": "Chef::Role",
+  "description": "A role for configuring a mac workstation",
+  "chef_type": "role",
+  "run_list": [
+    "recipe[workstation::chrome]",
+    "recipe[workstation::crashplan]",
+    "recipe[workstation::utils]",
+    "recipe[workstation::github_ssh_keys]",
+    "recipe[workstation::heroku]",
+    "recipe[workstation::lastpass]",
+    "recipe[workstation::python]",
+    "recipe[workstation::transmission]",
+    "recipe[workstation::vagrant]",
+    "recipe[workstation::virtualbox]",
+    "recipe[workstation::vlc]",
+    "recipe[workstation::xquartz]" ]
+}

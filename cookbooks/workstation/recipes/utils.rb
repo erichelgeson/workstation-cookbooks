@@ -1,0 +1,6 @@
+package 'nmap'
+package 'git-core'
+package 'htop'
+package 'vim +huge'
+package 'wget'
+package 'ncdu'
