@@ -12,12 +12,12 @@ Recipies
 * LastPass
 * Chrome
 * CrashPlan
-* heroku.rb (not yet implemented)
 * LastPass
 * Python
 * Transmission
 * Vagrant
 * Virtualbox
 * VLC
-* xquartz (from pivotal
+* xquartz (from pivotal)
 * github_ssh_keys (from pivotal)
+* heroku (not yet implemented)
